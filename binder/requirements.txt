@@ -1,0 +1,5 @@
+sciann
+numpy
+matplotlib
+pandas
+tensorflow
