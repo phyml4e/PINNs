@@ -14,6 +14,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722
 
 
 3- For problems occurring in multiphysics environments involving the coupling of at least two different physics, please see https://arxiv.org/abs/2302.04954. This code is tailored specifically for a mixed-PINN formulation addressing a thermo-mechanical problem within the microstructure of a two-phase material. Future updates will include additional investigations involving other physics.
+![multi_phy](https://github.com/phyml4e/PINNs/assets/109462709/a6e4379e-f604-4c8f-b2e1-4713d5284d3e)
 
 
 4- To address coupled nonlinear relations in solid constitutive laws, please refer to https://arxiv.org/abs/2304.06044.
+![comm-pinn](https://github.com/phyml4e/PINNs/assets/109462709/d2addf6a-f4ea-4bfe-86b9-cb6c010046ff)
