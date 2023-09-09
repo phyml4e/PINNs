@@ -4,7 +4,9 @@ In this repository, you will find the codes for the application of deep learning
 
 1- How to start: a simple code for solving a first-order ODE via physics-informed neural networks. 
 Further details are also provided in the Google collab. file as well as the appendix in the following article:
-https://arxiv.org/abs/2206.13103
+https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722 (arxiv version: https://arxiv.org/abs/2206.13103)
+
+2- For the basic problem of mechanical equilibrium and steady-state thermal diffusion problem where we solve governing equations in a standard two-phase micro-structure see:
 https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722
 
-2- 
+3- 
