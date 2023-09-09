@@ -5,7 +5,7 @@ In this repository, you will find the codes for the application of deep learning
 1- How to Get Started: a simple code for solving a first-order ODE using Physics-Informed Neural Networks (PINN).
 Additional details can be found in the Google Colab file and the appendix of the following article:"
 https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722 (arxiv version: https://arxiv.org/abs/2206.13103)
-![ODE](https://github.com/phyml4e/PINNs/assets/109462709/6b2484fa-05c2-492a-ba14-8ce25f6c6757)
+![ODE](https://github.com/phyml4e/PINNs/assets/109462709/6b2484fa-05c2-492a-ba14-8ce25f6c6757 | width=100)
 
 
 2- To employ the mixed formulation for solving a mechanical equilibrium and steady-state thermal diffusion problem within a two-phase microstructure, please refer to:
