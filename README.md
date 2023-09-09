@@ -11,6 +11,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722 (arxiv v
 2- To employ the mixed formulation for solving a mechanical equilibrium and steady-state thermal diffusion problem within a two-phase microstructure, please refer to:
 https://www.sciencedirect.com/science/article/abs/pii/S0045782522005722
 
+![Bild1](https://github.com/phyml4e/PINNs/assets/109462709/e6cf0992-cce7-4dc4-9043-60a6cebd4030)
+
 
 3- For problems occurring in multiphysics environments involving the coupling of at least two different physics, please see https://arxiv.org/abs/2302.04954. This code is tailored specifically for a mixed-PINN formulation addressing a thermo-mechanical problem within the microstructure of a two-phase material. Future updates will include additional investigations involving other physics.
 ![multi_phy](https://github.com/phyml4e/PINNs/assets/109462709/a6e4379e-f604-4c8f-b2e1-4713d5284d3e)
